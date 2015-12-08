@@ -129,8 +129,8 @@ public class IncidentCreator {
     private static JSONObject readLoginCredentials() {
 
         JSONObject loginRequest = new JSONObject();
-        loginRequest.put("email", "heman@ligadata.com")
-                    .put("password", "LigaHemanData0");
+        loginRequest.put("email", "user@somedomain.com")
+                    .put("password", "some_password");
 
         return loginRequest;
     }

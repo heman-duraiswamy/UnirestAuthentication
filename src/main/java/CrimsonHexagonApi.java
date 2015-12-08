@@ -10,8 +10,8 @@ import java.util.SplittableRandom;
 public class CrimsonHexagonApi {
 
     private static final String BASE_URL = "https://api.crimsonhexagon.com/api/";
-    private static final String EMAIL_ID = "heman.duraiswamy@barclayscapital.com";
-    private static final String PWD = "CBarcapH123";
+    private static final String EMAIL_ID = "someuser@somedomain.com";
+    private static final String PWD = "some_password";
 
     private static String authToken;
 
